@@ -1,0 +1,17 @@
+{
+  "name": "Aw-Lince",
+  "homepage": "none",
+  "description": "Template de sites",
+  "main": "index.php",
+  "keywords": [
+    "linceplate"
+  ],
+  "authors": [
+    "Time Criacao"
+  ],
+  "license": "none",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.6"
+  }
+}

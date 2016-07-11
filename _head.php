@@ -45,7 +45,7 @@
 
 
 <!-- Bootstrap -->
-<link rel='stylesheet' type='text/css' href='assets/libs/bootstrap/bootstrap.min.css'>
+<link rel='stylesheet' type='text/css' href='assets/libs/bootstrap/dist/css/bootstrap.min.css'>
 
 <!-- Main CSS -->
 <link rel='stylesheet' href='assets/css/style.css'>
