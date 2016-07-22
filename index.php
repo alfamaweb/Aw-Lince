@@ -1,12 +1,9 @@
 <?php
-
     include('_config.php');
-
     // Cofiguração da Página
     $page = new stdClass();
     $page->title = 'Home';
     $page->desc = 'Descrição';
-
     // Adiciona o nome do site ao Título
     $page->title = $page->title.' | '.$site->name;
 
